@@ -1,7 +1,6 @@
 import { useState } from "react";
+import salonInterior from "@/imports/545459843_1308773367925737_8398892775187115506_n.jpg";
 
-const salonInterior =
-  "https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?auto=format&fit=crop&w=1600&q=88";
 const salonDetail =
   "https://images.unsplash.com/photo-1600948836101-f9ffda59d250?auto=format&fit=crop&w=1200&q=88";
 const salonService =
