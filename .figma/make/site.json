@@ -1,0 +1,11 @@
+{
+  "title": "Tapiolan Salonki",
+  "description": "Showcases Tapiolan Salonki's services, customer reviews, and photos to help users explore and book hair salon appointments with ease.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
